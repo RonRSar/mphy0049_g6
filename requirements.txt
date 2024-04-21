@@ -1,0 +1,8 @@
+vertexai
+gtts
+playsound
+picamera2
+gpiozero
+pillow
+google
+google-api-python-client
